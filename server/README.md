@@ -1,5 +1,3 @@
-📘 README.md — MERN Blog Integration Assignment
-md
 # MERN Blog — Integration Assignment
 
 ![Build](https://img.shields.io/badge/build-passing-brightgreen.svg)
