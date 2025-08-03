@@ -18,13 +18,15 @@ This repository showcases a blog platform built with the MERN stack, following t
 
 ### 📂 Project Structure
 
-```bash
+
 mern-blog/
 ├── client/              # React frontend using Vite
 ├── server/              # Express backend with MongoDB
 ├── .env.example         # Environment configuration
 └── README.md            # This file
-🚀 Setup Instructions
+
+---
+## 🚀 Setup Instructions
 bash
 # Server
 cd server
@@ -50,7 +52,9 @@ GET /api/categories → Retrieve categories
 
 POST /api/categories → Create category
 
-🧠 Features Implemented
+--- 
+
+### 🧠 Features Implemented
 Modular backend with error handling and validation
 
 MongoDB seeding with cultural themes
@@ -63,9 +67,12 @@ Dynamic forms with optimistic UI
 
 Screenshots pending integration
 
-📌 Vision Alignment
+
+---
+
+## 📌 Vision Alignment
 This project extends beyond functionality. It reflects a commitment to accessible, ethical tech rooted in Afro-futurist branding. Every route, schema, and component ties back to meaningful digital storytelling.
-=======
+
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=20021002&assignment_repo_type=AssignmentRepo)
 # MERN Stack Integration Assignment
 
@@ -145,4 +152,3 @@ Your work will be automatically submitted when you push to your GitHub Classroom
 - [React Documentation](https://react.dev/)
 - [Node.js Documentation](https://nodejs.org/en/docs/)
 - [Mongoose Documentation](https://mongoosejs.com/docs/) 
-
