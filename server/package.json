@@ -1,0 +1,30 @@
+{
+  "name": "mern-blog-server",
+  "version": "1.0.0",
+  "description": "Express backend for MERN blog project",
+  "main": "server.js",
+  "scripts": {
+    "dev": "nodemon server.js",
+    "start": "node server.js",
+    "seed": "node ../seed.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Leonard Phokane",
+  "license": "ISC",
+  "keywords": [
+    "Express",
+    "MERN",
+    "blog",
+    "API"
+  ],
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.1",
+    "express": "^5.1.0",
+    "express-validator": "^7.2.1",
+    "mongoose": "^8.17.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
